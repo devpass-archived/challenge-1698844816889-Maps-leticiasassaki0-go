@@ -1,0 +1,2 @@
+## Maps in Go Challenge
+In this challenge, we're exploring the usage of maps in Go. Your task is to implement a function called `countFruits` that takes a slice of strings representing fruits, and returns a map containing the count of each fruit. Then, write code to call the `countFruits` function with a sample slice of fruits and print out the fruit name along with its count.
