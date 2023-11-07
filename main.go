@@ -5,8 +5,7 @@ import (
 )
 
 func countFruits(fruits []string) map[string]int {
-	// Add your solution here!
-	return nil
+	return 0
 }
 
 func main() {
